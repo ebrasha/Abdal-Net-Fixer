@@ -1,0 +1,22 @@
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Abdal Net Fixer.exe.config
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Abdal Net Fixer.exe
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\ChilkatDotNet47.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.Windows.Documents.Core.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.Windows.Zip.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\TelerikCommon.dll
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.xml
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.xml
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.Windows.Documents.Core.xml
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\bin\Release\Telerik.Windows.Zip.xml
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Abdal_Net_Fixer.resources
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal_Net_Fixer.Properties.Resources.resources
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal Net Fixer.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal Net Fixer.exe.licenses
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal Net Fixer.csproj.CopyComplete
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal Net Fixer.exe
+C:\Users\Windows\source\repos\enc\Abdal Net Fixer\Abdal Security Group App\obj\Release\Abdal Net Fixer.csprojAssemblyReference.cache
